@@ -1,0 +1,50 @@
+
+body {
+	background:#989;
+	font-family: arial;
+	margin: 0;
+}
+header{
+	background:#989;
+	color:#676;
+	display: inline;
+	margin: 0;
+}
+nav ul {
+	background:#878;
+	color:purple;
+	margin: 6px;
+	padding: 10px;
+
+}
+nav ul li {
+	display:inline;
+	margin:6px;
+	list-style-type:none;
+	padding: 5px 15px;
+	background:#888;
+	border-radius: 5px;
+}
+nav ul li a {
+	color: purple;
+}
+
+
+.borked {
+	background:#633;
+	color:cyan;
+}
+.row {
+
+}
+.col {
+	padding: 7px 5px;
+	margin: 0%;
+	float: left;
+	background: #888;
+	text-indent: 1%;
+}
+footer {
+	color:#999;
+	clear: both;
+}
